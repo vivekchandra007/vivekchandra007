@@ -2,7 +2,7 @@
 - 👀 I’m interested in everthing about coding :) 
 - 🌱 I’m currently learning Quantum Computing and Web3.0 's decentralized file databases.
 
-- 🏢 As an accomplished Front-End Architect specializing in the development of cutting-edge 🔪 web applications, I bring over 13 years of invaluable experience 💎 to the table. Throughout my career, I have demonstrated a passion for creating intuitive UI, optimizing performance, and implementing scalable solutions, while collaborating effectively with cross-functional teams.
+- 🏢 As an accomplished Front-End Architect specializing in the development of cutting-edge 🔪 web applications, I bring over 15 years of invaluable experience 💎 to the table. Throughout my career, I have demonstrated a passion for creating intuitive UI, optimizing performance, and implementing scalable solutions, while collaborating effectively with cross-functional teams.
 
 - Over the course of my career, I have honed my skills in a wide range of front-end technologies, frameworks, and tools 🧰.    
 My core competencies include:
